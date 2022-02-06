@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gauravlahoti80
-- 👀 I’m interested in Building New Websites, Iam a sucessful javaScript, HTML5, CSS3, Python developer.
-- 🌱 I’m currently learning in 9th class
+- 👀 I’m interested in Building New Websites, Iam a sucessful javaScript, HTML5, CSS3, Python, React Native developer.
 - 💞️ I’m looking to collaborate on realtime projects
 - - 📫 How to reach me --> gauravlahoti80@gmail.com
 
