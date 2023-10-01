@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gauravlahoti80
-- 👀 I’m interested in Building New Websites, Iam a sucessful javaScript, HTML5, CSS3, Python, React Native developer.
+- 👀 I’m interested in Building New Websites, Iam a sucessful javaScript, HTML5, CSS3, Langchain, LLM's, Python, React Native developer.
 - 💞️ I’m looking to collaborate on realtime projects
 - - 📫 How to reach me --> 
 
